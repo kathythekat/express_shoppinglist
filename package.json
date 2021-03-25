@@ -23,5 +23,6 @@
     "url": "https://github.com/kathythekat/express_shoppinglist/issues"
   },
   "homepage": "https://github.com/kathythekat/express_shoppinglist#readme",
+  "devDependencies": {},
   "description": ""
 }
